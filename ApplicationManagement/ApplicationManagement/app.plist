@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>name</key>
+		<string>消消乐</string>
+		<key>icon</key>
+		<string>pic1</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>王者荣耀</string>
+		<key>icon</key>
+		<string>pic2</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>贪吃蛇</string>
+		<key>icon</key>
+		<string>pic3</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>飞车</string>
+		<key>icon</key>
+		<string>pic4</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>炫舞</string>
+		<key>icon</key>
+		<string>pic5</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>吃饭</string>
+		<key>icon</key>
+		<string>eat</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>喝酒</string>
+		<key>icon</key>
+		<string>drink</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>计算器</string>
+		<key>icon</key>
+		<string>cymbal</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>l浏览器</string>
+		<key>icon</key>
+		<string>pie</string>
+	</dict>
+</array>
+</plist>
